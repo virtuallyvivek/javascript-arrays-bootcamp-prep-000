@@ -17,3 +17,5 @@ function addElementToEndOfArray(array, element){
 function destructivelyAddElementToEndOfArray(array ,element){
   chocolateBars.unshift(element)
 }
+
+function accessElementInArray(array, index, element)
